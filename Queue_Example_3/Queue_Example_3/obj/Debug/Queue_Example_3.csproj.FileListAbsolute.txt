@@ -1,0 +1,7 @@
+C:\Users\RayanGate\source\repos\Queue_Example_3\Queue_Example_3\bin\Debug\Queue_Example_3.exe.config
+C:\Users\RayanGate\source\repos\Queue_Example_3\Queue_Example_3\bin\Debug\Queue_Example_3.exe
+C:\Users\RayanGate\source\repos\Queue_Example_3\Queue_Example_3\bin\Debug\Queue_Example_3.pdb
+C:\Users\RayanGate\source\repos\Queue_Example_3\Queue_Example_3\obj\Debug\Queue_Example_3.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Queue_Example_3\Queue_Example_3\obj\Debug\Queue_Example_3.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Queue_Example_3\Queue_Example_3\obj\Debug\Queue_Example_3.exe
+C:\Users\RayanGate\source\repos\Queue_Example_3\Queue_Example_3\obj\Debug\Queue_Example_3.pdb
